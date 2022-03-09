@@ -16,3 +16,7 @@ YouTube : https://youtu.be/wXhJMlBJgMI
 
 YouTube : https://youtu.be/r7Cpn_Vsd7Q
 
+* 아두이노 - 온습도 측정하기
+
+YouTube : https://youtu.be/qJPsxF3VAjE
+
